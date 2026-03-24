@@ -186,8 +186,8 @@ This implementation is intended as a reproducible reference for the method. Fork
   title        = {Omega-Gated KV Eviction for Bounded-Memory LLM Sessions on Consumer Hardware},
   year         = {2026},
   publisher    = {Zenodo},
-  doi          = {[add after deposit]},
-  url          = {https://github.com/YOUR_USERNAME/omega-session},
+  doi          = {[https://doi.org/10.5281/zenodo.19207975]},
+  url          = {https://github.com/dtmohan/omega-session},
   note         = {ORCID: 0000-0001-8054-2085}
 }
 ```
